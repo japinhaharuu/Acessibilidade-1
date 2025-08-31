@@ -2,7 +2,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Lemon&display=swap');
 
 :root {
-    --laranja-claro: #FF862A;
+    --laranja-escuro: #125982;
  }
 
 body {
@@ -11,7 +11,7 @@ body {
 }
 
 header {
-    background-color: #ffffff;
+    background-color: #E1F1FA;
 }
 
 
@@ -21,7 +21,7 @@ section {
 
 
 .nav-link {
-    color: #CB6D43;
+    color: #E877B4;
     font-weight: 600;
 }
 
@@ -57,7 +57,7 @@ section {
 
 
 .botao-inicio {
-    background-color: var(--laranja-claro);
+    background-color: var(--azul-escuro);
     border-radius: 30px;
     border: none;
     width: 14em;
@@ -67,7 +67,7 @@ section {
 }
 
 .display-4 {
-    text-shadow: -5px 5px var(--laranja-claro);
+    text-shadow: -5px 5px var(--azul-escuro);
 }
 
 
@@ -82,7 +82,7 @@ section {
     /* Ajuste o tamanho conforme necessário */
 }
 
-#tropicalia .container {
+#Okinawa .container {
     display: flex;
     align-items: center;
     justify-content: center;
@@ -96,11 +96,11 @@ h2 {
     font-family: 'Lemon', serif;
     font-size: 2.5em;
     font-style: normal;
-    color: var(--laranja-claro);
+    color: var(--azul-escuro);
 }
 
 #galeria {
-    background-color: #FAF4F4;
+    background-color: #FFFFFF;
 
 }
 
@@ -129,13 +129,13 @@ h2 {
 }
 
 .formulario button {
-    background-color: #CB6D43;
+    background-color: #FFC4CF;
     border: none;
     font-weight: bold;
 }
 
 .form-control {
-    background-color: #F1EDEF;
+    background-color: #B7DAEE;
 }
 .menu-acessibilidade{
     position: fixed;
